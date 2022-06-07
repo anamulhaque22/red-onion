@@ -1,0 +1,22 @@
+.food-nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.food-nav ul li button {
+    background: none;
+    border: none;
+}
+
+.single-food-item {
+    box-shadow: -1px -1px 29px -6px rgba(0,0,0,0.67);
+    -webkit-box-shadow: -1px -1px 29px -6px rgba(0,0,0,0.67);
+    -moz-box-shadow: -1px -1px 29px -6px rgba(0,0,0,0.67);
+    padding: 20px 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.single-food-item img {
+    margin-bottom: 20px;
+}

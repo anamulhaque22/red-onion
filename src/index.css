@@ -1,0 +1,23 @@
+body{
+  color:#1F1F1F;
+}
+a{
+  text-decoration: none;
+  color: #1F1F1F;
+}
+a:hove{
+  color: #FF1F4B;
+}
+h1,h2,h3, h4, h5, h6{
+  color:#1F1F1F;
+}
+ul{
+  list-style: none;
+}
+.btn{
+  display: inline-block;
+  background-color: #FF1F4B;
+  padding: 8px 25px;
+  color: #fff;
+  border-radius: 30px;
+}

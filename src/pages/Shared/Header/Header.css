@@ -1,0 +1,124 @@
+.header{
+    padding: 20px 0;
+}
+.header .navbar {
+    background-color: var(--header-bg);
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.logo img{
+    height: 80px;
+}
+.custom-class {
+    position: relative;
+}
+
+.header .navbar-nav li a {
+    color: var(--font-color-1);
+    font-size: 1.0625rem;
+    margin: 0 2.25rem;
+}
+
+.header .navbar-nav li a:hover {
+    color: var(--font-color-1);
+}
+
+.header .navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 31, 75, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.header .custom-toggler.navbar-toggler {
+    border-color: rgb(255, 255, 255);
+}
+
+.header .navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.header a:last-child {
+    margin-right: 0;
+}
+
+
+/*
+css for mobile device
+*/
+.header .navbar-collapse {
+    text-align: left;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    transition: .5s ease-in;
+}
+
+.header .navbar-collapse.show {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    transition: .5s ease-in;
+    opacity: 1;
+    height: auto;
+}
+
+.header .navbar-collapse:not(.show) {
+    position: absolute;
+    width: 100%;
+    top: 90%;
+    left: 0;
+    opacity: 0;
+    height: 0;
+    transition: .5s ease-in;
+}
+
+.header .collapsing {
+    position: absolute;
+    top: 80%;
+    width: 100%;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    transition: .5s ease-in;
+}
+
+.header .navbar-collapse.show a {
+    color: var(--font-color-2);
+}
+
+.header .navbar-collapse ul li a {
+    margin: 0;
+    padding: .5rem 1.5rem;
+    display: inline-block;
+}
+
+.header .navbar-collapse ul li {
+    border-bottom: 1px solid var(--font-color-2);
+}
+
+.header .navbar-collapse ul li:last-child {
+    border-bottom: none;
+}
+
+
+.header .show .navbar-nav {
+    background: var(--font-color-1);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+        rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.navbar-nav ul {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+@media (min-width: 992px) {
+    .navbar-nav ul {
+        flex-direction: row;
+    }
+
+    .header .navbar-collapse:not(.show) {
+        position: initial;
+        opacity: 1;
+        transition: .5s ease-in;
+    }
+}

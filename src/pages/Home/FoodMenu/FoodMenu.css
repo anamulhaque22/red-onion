@@ -1,0 +1,15 @@
+.food-menu{
+    margin-top: 4%;
+}
+.food-nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.food-nav ul li button {
+    background: none;
+    border: none;
+}
+.food-nav {
+    margin-bottom: 3%;
+}

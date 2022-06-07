@@ -1,0 +1,152 @@
+{
+    "breakfast": [
+        {
+            "id": "b1",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/pzNSPkP/breakfast1.png"
+        },
+        {
+            "id": "b2",
+            "name": "Fried Chicken Bento",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/Q6KJfFx/breakfast2.png"
+        },
+        {
+            "id": "b3",
+            "name": "Tarragon-Rubbed-Salmon",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/pJ1BVW7/breakfast3.png"
+        },
+        {
+            "id": "b4",
+            "name": "Indian Lunch",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/CKMCz9b/breakfast4.png"
+        },
+        {
+            "id": "b5",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/SrQzTfW/breakfast5.png"
+        },
+        {
+            "id": "b6",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/RzSMSrp/breakfast6.png"
+        }
+    ],
+    "dinner": [
+        {
+            "id": "d1",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/N6HgX7G/dinner1.png"
+        },
+        {
+            "id": "d2",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/2YQGnyx/dinner2.png"
+        },
+        {
+            "id": "d3",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/stF3jpT/dinner3.png"
+        },
+        {
+            "id": "d4",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/GFLWp0w/dinner4.png"
+        },
+        {
+            "id": "d5",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/Nm8Dn1Z/dinner5.png"
+        },
+        {
+            "id": "d6",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/VBJzsVB/dinner6.png"
+        }
+    ],
+    "lunch": [
+        {
+            "id": "l1",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/ZxhJJ1w/lunch1.png"
+        },
+        {
+            "id": "l2",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/vd6N4rw/lunch2.png"
+        },
+        {
+            "id": "l3",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/2FZ3WNJ/lunch3.png"
+        },
+        {
+            "id": "l4",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/1THYP7x/lunch4.png"
+        },
+        {
+            "id": "l5",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/R6Km5xP/lunch5.png"
+        },
+        {
+            "id": "l6",
+            "name": "Healthy Meal plan",
+            "description": "How we dream about our future",
+            "price": 23.99,
+            "quantity": 0,
+            "img": "https://i.ibb.co/tLrx07M/lunch6.png"
+        }
+    ]
+}

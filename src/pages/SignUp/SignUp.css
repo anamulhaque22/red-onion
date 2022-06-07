@@ -1,0 +1,20 @@
+.from-img {
+    margin-bottom: 30px;
+}
+.form-continer {
+    height: calc(100vh - 120px)
+}
+.form-continer button.btn {
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    color: #fff;
+    padding: 12px 0;
+}
+
+.form-continer .btn:hover {
+    background-color: #FF1F4B;
+}
+.form-continer a {
+    color: #FF1F4B;
+}
